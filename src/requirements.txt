@@ -1,4 +1,40 @@
 --extra-index-url https://nexus.fteamdev.valuya.be/repository/pypi/simple/
-nitro-domain-api-client == 2023.12.6.dev20231220141523
-nitro-keycloak-api-client == 2023.11.2.dev20231121104817
-
+aenum==3.1.15
+attrs==23.1.0
+cachetools==5.3.2
+certifi==2023.11.17
+charset-normalizer==3.3.2
+google-api-core==2.14.0
+google-auth==2.23.4
+google-cloud-secret-manager==2.16.4
+googleapis-common-protos==1.61.0
+grpc-google-iam-v1==0.12.7
+grpcio==1.59.3
+grpcio-status==1.59.3
+idna==3.6
+install==1.3.5
+jsonschema==4.20.0
+jsonschema-specifications==2023.11.1
+nitro-domain-api-client==2023.12.7.dev20231229202215
+nitro-keycloak-api-client==2023.11.2.dev20231121104817
+numpy==1.26.2
+pandas==2.1.3
+proto-plus==1.22.3
+protobuf==4.25.1
+pyasn1==0.5.1
+pyasn1-modules==0.3.0
+pydantic==1.10.13
+PyJWT==2.8.0
+pyproject-toml==0.0.10
+python-dateutil==2.8.2
+pytz==2023.3.post1
+referencing==0.31.0
+requests==2.31.0
+rpds-py==0.13.1
+rsa==4.9
+six==1.16.0
+stripe==7.5.0
+toml==0.10.2
+typing_extensions==4.9.0
+tzdata==2023.3
+urllib3==2.1.0
