@@ -1,6 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "pip_requirements": {
-    "fileMatch": ["requirements.txt"]
+    "fileMatch": ["requirements.txt", "requirements_2.txt"]
   }
 }
